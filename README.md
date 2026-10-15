@@ -69,6 +69,6 @@ SQL querying, relational database design, data validation, business analysis, DA
 ## Project Status
 Completed portfolio project. SQL scripts, dashboard files, and screenshots will be added to this repository as they are organized.
 
-## ## Dashboard Preview
-Dashboard_overview.png
+## Dashboard Preview
+inventory-supply-chain-logistics-analysis/blob/main/Dashboard_overview.png
 
