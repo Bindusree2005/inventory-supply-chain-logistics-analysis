@@ -67,7 +67,7 @@ The interactive dashboard includes:
 SQL querying, relational database design, data validation, business analysis, DAX measures, Power BI dashboard development, KPI reporting, and insight generation.
 
 ## Project Status
-Completed portfolio project. SQL scripts, dashboard files, and screenshots will be added to this repository as they are organized.
+Completed portfolio project demonstrating SQL analysis, data validation, and Power BI dashboard development using syntheticdata. 
 
 ## Dashboard Preview
 
